@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759980418614",
+    "project_id": "visa-application-112",
+    "storage_bucket": "visa-application-112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759980418614:android:e99822c6daaa562b04da97",
+        "android_client_info": {
+          "package_name": "com.example.hospiflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTl1dW_OocpbNa72rTEunMkNiFsIydSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759980418614:android:d11ed60697a3179404da97",
+        "android_client_info": {
+          "package_name": "com.example.visaapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTl1dW_OocpbNa72rTEunMkNiFsIydSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
